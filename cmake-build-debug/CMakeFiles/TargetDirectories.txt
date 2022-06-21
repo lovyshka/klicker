@@ -1,0 +1,9 @@
+C:/Users/voron/OneDrive/Рабочий стол/all programs/cc+/klickerlastversion/cmake-build-debug/CMakeFiles/klicker.dir
+C:/Users/voron/OneDrive/Рабочий стол/all programs/cc+/klickerlastversion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/voron/OneDrive/Рабочий стол/all programs/cc+/klickerlastversion/cmake-build-debug/CMakeFiles/klicker_tst.dir
+C:/Users/voron/OneDrive/Рабочий стол/all programs/cc+/klickerlastversion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/voron/OneDrive/Рабочий стол/all programs/cc+/klickerlastversion/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/voron/OneDrive/Рабочий стол/all programs/cc+/klickerlastversion/cmake-build-debug/doctest/CMakeFiles/rebuild_cache.dir
+C:/Users/voron/OneDrive/Рабочий стол/all programs/cc+/klickerlastversion/cmake-build-debug/doctest/CMakeFiles/test.dir
+C:/Users/voron/OneDrive/Рабочий стол/all programs/cc+/klickerlastversion/cmake-build-debug/doctest/CMakeFiles/doctest.dir
+C:/Users/voron/OneDrive/Рабочий стол/all programs/cc+/klickerlastversion/cmake-build-debug/doctest/CMakeFiles/edit_cache.dir
